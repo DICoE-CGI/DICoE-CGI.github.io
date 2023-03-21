@@ -1,5 +1,5 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: AcaPy Developer Environment Setup 
-description: Setup a development environment by following the instructions here!
+title: Test Github Page
+description: This is a simple test with 2 github pages
