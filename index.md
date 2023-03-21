@@ -1,4 +1,4 @@
 **Contents**
 
-[Readme](./readme.html)<br>
-[Setup](./setup.html)
+[Page 1](./page1.html)<br>
+[Page 2](./page2.html)
