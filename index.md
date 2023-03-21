@@ -1,1 +1,4 @@
-**This is an index file**
+**Contents**
+
+[README](./README.html)
+[Setup](./setup.html)
